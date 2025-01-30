@@ -1,6 +1,6 @@
 title: Chris' Blog
 description: My attempt to document personal projects that I'm working on.
-url: "https://thechrislee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://thechrislee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  thechrislee
 linkedin_username: the-chris-l
 # Build settings
