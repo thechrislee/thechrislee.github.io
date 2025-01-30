@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "First Post..."
+title:  "First Post...Lions, Tigers, and PLCs, Oh My!"
 date:   2025-01-30 07:48:08 -0500
 categories: PLC automation 
-image: IMG_0914.jpg
 ---
 Welcome to my blog. I've made attempts to blog off and on since probably about 2010. For some reason I don't stick with it. I'm sure there are old blog posts with examples of linked lists or binary searches that I wrote in Java. Enough with the nostalgia...
 
